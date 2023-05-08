@@ -1,5 +1,5 @@
 # Analysis of Polish Bankruptcy Companies Dataset
-<todo>
+todo
 
 ## Data Source
 The data was obtained from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
@@ -14,7 +14,7 @@ Basing on the collected data five classification cases were distinguished, that 
 - 5thYear the data contains financial rates from 5th year of the forecasting period and corresponding class label that indicates bankruptcy status after 1 year. The data contains 5910 instances (financial statements), 410 represents bankrupted companies, 5500 firms that did not bankrupt in the forecasting period.
   
 
-##Attribute Information:
+## Attribute Information:
 
 X1 net profit / total assets
 X2 total liabilities / total assets
@@ -81,5 +81,5 @@ X62 (short-term liabilities *365) / sales
 X63 sales / short-term liabilities
 X64 sales / fixed assets
   
-##Project Purpose
-<todo>
+## Project Purpose
+todo
