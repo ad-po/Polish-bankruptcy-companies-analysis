@@ -1,0 +1,1 @@
+# Polish-bankruptcy-companies project
