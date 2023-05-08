@@ -15,6 +15,7 @@ Basing on the collected data five classification cases were distinguished, that 
   
 
 ##Attribute Information:
+
 X1 net profit / total assets
 X2 total liabilities / total assets
 X3 working capital / total assets
