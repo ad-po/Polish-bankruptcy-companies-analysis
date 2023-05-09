@@ -15,3 +15,6 @@ Basing on the collected data five classification cases were distinguished, that 
  
 ## Project Purpose
 todo
+
+## Prerequisites:
+- Python 3.11 or higher
