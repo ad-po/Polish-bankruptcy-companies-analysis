@@ -17,4 +17,4 @@ Basing on the collected data five classification cases were distinguished, that 
 todo
 
 ## Prerequisites:
-- Python 3.11 or higher
+- Python 3.10 or higher
