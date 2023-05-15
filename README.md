@@ -4,11 +4,11 @@ todo
 ## Data Source
 The data was obtained from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
 
-In the context of this work, the concept of bankruptcy is understood as a legal situation in which a company is no longer able to pay its debts and financial obligations to its creditors.
-
 ## Dataset Description
 The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets Information Service (EMIS, [https://www.emis.com/]), which is a database containing information on emerging markets around the world. The bankrupt companies were analyzed in the period 2000-2012, while the still operating companies were evaluated from 2007 to 2013.
 Basing on the collected data five classification cases were distinguished, that depends on the forecasting period.
+
+In the context of this work, the concept of bankruptcy is understood as a legal situation in which a company is no longer able to pay its debts and financial obligations to its creditors.
 
 The source of base includes articles, news agency messages, the financial statements of companies, industry reports, stock quotes and statistics and analyzes macroeconomic data.
 
@@ -56,5 +56,4 @@ Read more at: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptc
 
 5. Install packages from requirements.txt file
     - Make sure your virtual environment is activated. You can tell if your environment is active by looking at your command line prompt. If it starts with (venv), then your environment is active.
-    - Use pip to install the packages: <code> pip install -r requirements.txt
- </code>
+    - Use pip to install the packages: <code> pip install -r requirements.txt </code>
