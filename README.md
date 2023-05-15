@@ -16,6 +16,11 @@ The set of characteristics considered in the classification process consists of 
 
 Read more at: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
 
+## Exploratory data analysis
+In the project there are:
+- 65 variables: 64 numeric and 1 objective variable,
+- 43405 observations,
+- 41322 missing cells = 1.5% missing cells 
 ## Prerequisites:
 - Python 3.10 or higher
 
