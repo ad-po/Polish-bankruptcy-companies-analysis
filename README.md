@@ -10,7 +10,9 @@ In the context of this work, the concept of bankruptcy is understood as a legal 
 The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets Information Service (EMIS, [https://www.emis.com/]), which is a database containing information on emerging markets around the world. The bankrupt companies were analyzed in the period 2000-2012, while the still operating companies were evaluated from 2007 to 2013.
 Basing on the collected data five classification cases were distinguished, that depends on the forecasting period.
 
+The source of base includes articles, news agency messages, the financial statements of companies, industry reports, stock quotes and statistics and analyzes macroeconomic data.
 
+The set of characteristics considered in the classification process consists of 64 financial indicators.
 
 Read more at: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
 
