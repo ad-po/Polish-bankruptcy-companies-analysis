@@ -4,7 +4,7 @@ node_modules/
 *.egg-info/
 .ipynb_checkpoints
 *.tsbuildinfo
-data/*
+data/01_raw/*
 venv/
 reports/*
 
