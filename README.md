@@ -1,6 +1,6 @@
 # Analysis of Polish Bankruptcy Companies Dataset
 ## Project Purpose
-The project is still in progress!
+The project is still in progress! Come back soon.
 ## Data Source
 The data was obtained from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
 
